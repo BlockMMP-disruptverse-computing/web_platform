@@ -1,0 +1,13 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    image: web_app_api
+  client:
+    build:
+      context: .
+      dockerfile: Dockerfile.client
+    image: web_app_client
+    ports:
+      - "3000:80"

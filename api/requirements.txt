@@ -1,0 +1,16 @@
+click==8.0.1
+Flask==2.0.1
+gunicorn==20.1.0
+itsdangerous==2.0.1
+Jinja2==3.0.1
+MarkupSafe==2.1.1
+python-dotenv==0.17.1
+Werkzeug==2.2.3
+kb-python==0.27.3
+leidenalg==0.9.1
+louvain==0.8.0
+matplotlib==3.5.2
+numpy==1.22.4
+scanpy==1.9.3
+scikit-learn==1.1.1
+scipy==1.8.1

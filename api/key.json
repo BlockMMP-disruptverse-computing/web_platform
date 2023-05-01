@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fieldsai",
+  "private_key_id": "64fee2030c0e8aeaf30df338085c6b04105e9253",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCwA/2fZ/GwA1nE\nFkpufAfsQ4F5teKHYDLpHDmYxuEQbjxxdmb4HWhC8AMIS+LRHDKFYyZ04txrw2f4\nbm70NM9tcnz6+bNkzuCZHHYV8MVv07MiFSG3DvUbjAWnu6R3S0CVCz5lZ6Fr9te4\ny/JBP9buCaQTvD/TLsRVr63cogXU7+Jk9xYCQTNXPadWiD2nS4/Lh8EJZqq0Ua54\nM7RAqDjDqT6ezSkfHddOP4BjmweInYBB+lAt5e/nn8UKoEK1stFRjzzQz0wtMkSI\nPgdm0SHGG8pYTlu/+Mhxj6BtWFw/jjmhLDc5ZcNoewwvB9DWa1tU/uEAyn+Ig5sJ\nuUa2JU23AgMBAAECggEADuVE5ToXMSrqFwGUlUqyzZ2di0Qct7x+N823LsTZ5BmS\nzOlVEndD97I3F3sl5ptpHR0EcqIw6X+/wJLxRIJkRsyzDfbsEG0U2HBDqrIAYL58\n1ja37orPVwr0/uUO0zek71gPFObTDtTKHG30rO1ETksLkyNRusNQ7eLFpw/LyDbM\nCRaFCB3+mjZvJVVzSeZEwJQhJMepv6sKNTwcWxklZF8Lm3Eh0JWYTgeIjMfpPkcI\nf1+YKCfgdc9yn3z7kr9Q9pcrOz0Es8GFgCYvZL3pkVuvx0Q+XjaYa5WhuY54x+EL\nKkuOX9Y92V2kHH7wydTKxgm0ZC5qOcHPQwdM/Cn+nQKBgQDqr1Zq9ysv2Gvh4stW\ne1/zVyqEcT2MZC8fTDjq4A/ntuAr6etIUWU3XSCslYKNiiNk/N5dL5q3SA5cvZn1\nEuUk0t1jWUKbYPWE1BeaoAtJsbH/mu05+uM70Qbshkfuh0W4WfRrgqgJIsAOrZRy\n8sFyZVDG2wNTb0XmmANhFK+POwKBgQDAAIglH/qdzrOs1G86lAzYeYYjR+iQq2oe\nGk86gD5wkT8VrzGgmHOJ/uX66NKpU/zAc2DaoDEFavHF5ZpMYwKtMwM4CJzXSeJr\n0azJ9RvqGYJ49ScU/mgK++i4Xwj/OXbqMfG8R2cUmUD4/cJsG9t8iMmF9HGtMdGM\nT0AtlcCLtQKBgGLVlL9XeIidzFFFAf1Z1/7TJsTAK/uD9ZRotU+1LP2Ytq/Hw56h\nKM84GRqVnHWfR2iwVbVI5w9o+SN1dfEQFBB9/V5pqPNm0f8ukwI7hIV0oFHVHTLd\nxfTbAt95bbG2plYNDDJ6w+mVCO0ljO8b7PwQTwRwF+Z7ZiTGwCWSYJ0hAoGAIaW2\nNjNVeyRHLomH+I8LdUBOto4afofbr+zSZ6Ej0BxUHtu16bvtu4g1C3STvmLej2do\n2Mdr79QfDJxBHxPW2z1uWfqAaeYjzNtQ2Y+f1bWkvMfRkodG+m3NCcp1zCxo33/j\nKiilMuHslfX6hXGYVEmwb044Qa7SVzFoQNTWimUCgYBxN9SBJxqfWFJu++TMw5hz\n0zqqC+mT60EAhj+5tC7A9Jx7mEC1oI7a61L9xKvSUK2gcbBnYHRE3dYwgUlRKzGH\n7bF9tAB1cX/3BwT6wRT4XDhEuR5u437tpZEOlfGqTYwxsbGIz1jWWu7Gy8V+RZmS\n2s9Eax8M76dc56pWwD2SLQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "senior-design@fieldsai.iam.gserviceaccount.com",
+  "client_id": "114976204846736794950",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/senior-design%40fieldsai.iam.gserviceaccount.com"
+}
